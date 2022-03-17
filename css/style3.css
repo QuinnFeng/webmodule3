@@ -1,0 +1,36 @@
+.nav-css {
+    background-color: #999999;
+    border: 2px solid;
+}
+
+
+.container {  
+  border: 1px solid #3F0C1F;
+}
+
+.nav-item{
+    border: 1px solid black;
+}
+
+.menu-tile{
+  height: 250px;
+  width: 100%;
+  background-position: center;
+  font-weight: bold; 
+}
+
+.nav-css {
+    background-color: #999999;
+    border: 1px solid;
+}
+
+div>p:nth-child(2){
+    border:1px solid black;
+    background-color: #778899;
+}
+
+@media (min-width: 576px) {
+  .navbar-toggler{
+     visibility: hidden;
+  }
+}
